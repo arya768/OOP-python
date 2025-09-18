@@ -1,5 +1,4 @@
 # OOP-python
-Object-oriented programming pratice 
-
-Creating shapes of tetris game: The shapes are I O J L S Z T. 
-Will add more shapes such as I O J L S Z T in rotation. 
+A practice project in object-oriented programming using Python.
+This project focuses on creating the classic Tetris shapes — I, O, J, L, S, Z, T — using classes and methods. It makes use of the turtle, random, and itertools libraries to visualize and manage the shapes.
+Future updates will include shape rotations and potentially new variations of Tetris pieces.
