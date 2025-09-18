@@ -40,7 +40,4 @@ class SchoolZoneLight(TrafficLight):
 
     def describe(self):
          print("Traffic light type X is being created")
-school_light = SchoolZoneLight()
-school_light.show()
-school_light.next()
-school_light.show()
+
