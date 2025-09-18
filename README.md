@@ -1,4 +1,4 @@
-🧱 ##OOP with Python — Practice Projects
+##🧱 OOP with Python — Practice Projects
 
 1. **Tetris Shape Generator**  
    A Python program that creates the classic Tetris shapes — **I, O, J, L, S, Z, T** — using object-oriented design.  
